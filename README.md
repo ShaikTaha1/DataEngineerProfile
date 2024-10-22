@@ -1,4 +1,3 @@
-To create a compelling GitHub profile page for you as an **Azure Data Engineer**, here's a professional template:
 
 ---
 
@@ -70,6 +69,4 @@ Welcome to my GitHub profile! I’m an Azure Data Engineer with expertise in end
 
 Feel free to explore my repositories and reach out if you’d like to collaborate on any data engineering or cloud projects. I am always open to contributing to new and exciting projects!
 
----
 
-Make sure to replace the placeholders like `username` and `LinkedIn Profile` with your actual links. This GitHub profile page will effectively showcase your skills, projects, and expertise as an **Azure Data Engineer**.
